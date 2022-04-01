@@ -10,6 +10,6 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MR.Wrestler)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-pehlivan/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/burakpehlivan.se)
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakpehlivan2015@gmail.com)](mailto:burakpehlivan2015@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/burakpehlivan2015@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakpehlivan2015@gmail.com)](mailto:burakpehlivan2015@gmail.com)
 
 
