@@ -1,15 +1,20 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=MR-Wrestler&show_icons=true">
-
-# Merhaba, ben Burak Pehlivan! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-Wrestler" alt="MR-Wrestler" /> </p>
-
-[![](https://img.shields.io/twitter/follow/MR-Wrestler?style=social)](https://www.twitter.com/MR.Wrestler)
-[![](https://img.shields.io/github/followers/MR-Wrestler?style=social)](https://www.github.com/MR-Wrestler)
+# 💫 About Me:
+Software engineering student 💻<br>Artifical Inteligente 
 
 
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/MR.Wrestler)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-pehlivan/)
-[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/burakpehlivan.se)
-[![Mail Badge](https://img.shields.io/badge/burakpehlivan2015@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:burakpehlivan2015@gmail.com)](mailto:burakpehlivan2015@gmail.com)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/burak_pehlivan_s.e) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-pehlivan-82a806223) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MR-wrestler&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MR-wrestler&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MR-wrestler&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MR-wrestler&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
