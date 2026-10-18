@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=Burak%20Pehlivan&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20AI%20%26amp%3B%20otomasyon&descAlignY=62" width="100%" alt="Burak Pehlivan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=230&section=header&text=Burak%20Pehlivan&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Yapay%20zeka%20ve%20otomasyon&descAlignY=84" width="100%" alt="Burak Pehlivan" />
 </p>
 
 <p align="center">
@@ -19,14 +19,14 @@ Açık kaynak projeler geliştiriyor, öğrendiklerimi Türkçe kaynağa dönü�
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,js,git,linux,docker&theme=dark" alt="Java, Python, C, C++, HTML, CSS, JavaScript, Git, Linux, Docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,linux,docker&theme=dark" alt="Python, Java, C, C++, HTML, CSS, JavaScript, Git, Linux, Docker" />
 </p>
 
 ### İstatistikler
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=burakpehlivan-se&show_icons=true&theme=radical&hide_border=true" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=burakpehlivan-se&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="En çok kullanılan diller" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub istatistikleri" />
+  <img height="165" src="./profile/top-langs.svg" alt="En çok kullanılan diller" />
 </p>
 
 <p align="center">
