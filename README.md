@@ -47,7 +47,3 @@ Açık kaynak projeler geliştiriyor, öğrendiklerimi Türkçe kaynağa dönü�
 | [white-sand](https://github.com/burakpehlivan-se/white-sand) | Yapay zeka destekli tatil yeri seçme otomasyonu | 3★ |
 | [onlineturingtest](https://github.com/burakpehlivan-se/onlineturingtest) | Tarayıcıda çalışan Turing testi deneyimi | — |
 | [kde-minimize-one-monitor](https://github.com/burakpehlivan-se/kde-minimize-one-monitor) | KWin betiği: pencereyi yalnızca tek monitörde küçültür | — |
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=burakpehlivan-se&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profil görüntüleme sayısı" />
-</p>
